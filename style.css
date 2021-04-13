@@ -1,0 +1,75 @@
+.div2{ position: absolute;
+    background:rgb(1, 1, 65) ;
+    margin-right:200px;
+    padding:20px;
+    padding-top:10px;
+    width: 100%;
+    left: 50%;
+    transform: translate(-50%,0%);
+    border-radius: 50px;
+    top: 3%;
+}
+
+.head{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-size: 52px;
+    text-align: center;
+    top: 20px;
+}
+
+.email{
+    text-align: center;
+    font-size: 19px;
+    color: white;
+}
+.name{
+    color: white;
+    margin-bottom:10px
+}
+
+.Lists{font-family: 'RocknRoll One', sans-serif;
+    position: absolute;
+    left: 19%;
+    top: 35%;
+    transform: translate(-50%,0%);
+    
+}
+.hre{position: absolute;
+    width: 140vh;
+    left: 50%;
+    transform: translate(0%,0%);
+}
+.logo{
+    position: absolute;
+    width: 30%;
+    height: 100%;
+    left: 60%;
+    border-radius: 40px;
+    top: 40%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif);
+}
+
+.back{position: absolute;
+    top: 0;
+    left: 0;
+  min-width: 100%;
+  height: 200%;
+  background-size: 100%;
+  background-image: url(https://i.pinimg.com/originals/b8/42/e1/b842e1b5936db512fdddac0583c30350.gif);
+  background-position: center center;
+
+}
+.white{ position: absolute;
+    left: 130%;
+    top: 0%;
+    width: 100%;
+}
+
+.white2{ position: absolute;
+    left: 130%;
+    top: 30%;
+    width: 100%;
+}
