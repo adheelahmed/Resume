@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight&display=swap');
+
+.div2{ position: relative;
+    background:rgb(4, 42, 92) ;
+    height: 100%;
+    width: 100%;
+    border-radius: 50px;
+    top: 300px;
+    opacity: 0;
+    transition: opacity .3s ease; 
+}
+.div2:hover{
+    opacity: 1;
+}
+
+
+.div1{ position: absolute;
+    top: 20%;
+    width: 99.95%;
+    height: 500px;
+    
+}
+.head{
+    position: relative;
+    color: rgb(0, 0, 0);
+    font-size: 52px;
+    text-align: center;
+    top: 0px;
+    left: 50%;
+    transform: translate(-50%,0%);
+    z-index: 10;
+    font-family: 'Zilla Slab Highlight', cursive;
+
+}
+
+.email{position: relative;
+    text-align: center;
+    font-size: 15px;
+    color: black;
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 5px;
+
+}
+.name{position: relative;
+    color: black;
+    font-family: 'Fredoka One', cursive;
+    letter-spacing: 3px;
+
+}
+
+.Lists{font-family: 'RocknRoll One', sans-serif;
+    position: absolute;
+    top: 0px;
+    width: 100vw;
+    height: 100%;
+    color: wheat;
+    display: flex;
+    padding: 0%;
+    margin: 0%;
+    font-size: calc(10px + .5vw);
+    border-radius: 50px;
+}
+.hre{position: absolute;
+    width: 60vw;
+    left: 50%;
+    transform: translate(-50%,0%);
+    bottom: -10%;
+}
+
+
+
+.parent1{
+    
+    position: static;
+    top: 0px;
+    left: 0px;
+  width: 100%;
+  height: 1250px;
+  background-size: cover;
+  background-image: url(https://i.pinimg.com/originals/b8/42/e1/b842e1b5936db512fdddac0583c30350.gif);
+  background-repeat: no-repeat;
+  background-position: center center ;
+}
+
+.parent2{
+    
+    position: relative;
+    top: 10px;
+  width: 100%;
+  height: 20px;
+  background-size: cover;
+background: white;
+  background-repeat: no-repeat;
+  background-position: center center ;
+ 
+}
+.link1{
+    text-decoration: none;
+    width: 400px;
+    
+    
+}
+.prjokt{
+    position: relative;
+    top: 0px;
+    left: 50%;
+    transform: translate(-50%,0);
+    font-family: 'Bangers', cursive;
+    font-size: 50px;
+    text-align: center;
+    z-index: 10;
+    color: gainsboro;
+    background-color: rgb(4, 42, 92);
+    border-radius: 10px;
+    width: 100%;
+    height: 75px;
+}
+
+
+
+.prjkts{
+    position: relative;
+    width: 80%;
+}
+
+.prjkts2{
+    position: relative;
+    width: 80%;
+    top: 50px;
+}
+
+.prjkts3{
+    position: relative;
+    width: 80%;
+    top: 100px;
+}
+
+.prjkts4{
+    position: relative;
+    width: 80%;
+
+}
+
+.prjkts5{
+    position: relative;
+    width: 80%;
+    top: 50px;
+}
+
+.prjkts6{
+
+    position: relative;
+    width: 80%;
+    top: 100px;
+}
+
+
+.prjkts7{
+    position: relative;
+    width: 80%;
+
+}
+
+.prjkts8{
+    position: relative;
+    width: 80%;
+    top: 50px;
+}
+
+.prjkts9{
+
+    position: relative;
+    width: 80%;
+    top: 100px;
+}
+
+
+
+.edu{
+    position: relative;
+   
+    
+}
+
+.skills{
+    position: relative;
+}
+.hobbies{
+    position: relative;
+
+    
+}
+.communities{
+    position: relative;
+    
+}
+.extra{
+    position: relative;
+}
+.ed1{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    left: 2%;
+}
+.hob{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    left: -1%;
+}
+.extr{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    left: -3%;
+}
+
+.gallery{position:absolute;
+    display: flex;
+    width: 100%;
+    height: 10%;
+    top: 30px;
+    left: 10%;
+}
+.firstdiv{
+    position: relative;
+}
+.secdiv{
+    position: relative;
+}
+
+.thirddiv{
+    position: relative;
+}
+
+
+
+
+
+.jumbotron.jumbotron-fluid.bg.text-white.text-center{
+  
+    background: linear-gradient(rgb(74, 213, 255),rgb(10, 183, 252));
+    border-radius: 50px;
+}
